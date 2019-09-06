@@ -8,6 +8,7 @@
 require 'vendor/autoload.php'
 
 需要在composer.json配置一下
+```
 "autoload": {
     // 额外文件
     "files": [
@@ -16,3 +17,4 @@ require 'vendor/autoload.php'
     // 自动加载类的命名空间和目录的映射
     "psr-4": {"Fuxx\\": "src/"}
 }
+```
