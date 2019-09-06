@@ -1,0 +1,10 @@
+{
+    "name": "ddmm/best",
+    "require": {},
+    "autoload": {
+        "files": [
+            "app/Helpers/helpers.php"
+        ],
+        "psr-4": {"Fuxx\\": "src/"}
+    }
+}
