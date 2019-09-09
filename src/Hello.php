@@ -5,7 +5,7 @@ namespace Fuxx;
 
 class Hello
 {
-    public function go(){
-        echo 'Hello.go';
+    public function helloFunc(){
+        echo "helloFunc\n";
     }
 }

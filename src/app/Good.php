@@ -4,7 +4,7 @@ namespace Fuxx\app;
 
 class Good
 {
-    public function go(){
-        echo 'Hello.go';
+    public function goodFunc(){
+        echo "goodFunc\n";
     }
 }

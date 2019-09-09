@@ -1,4 +1,4 @@
 <?php
-function helpersOk(){
-    echo 'helpers.ok';
+function helpersFunc(){
+    echo "helpersFunc\n";
 }
