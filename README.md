@@ -13,7 +13,7 @@ require 'vendor/autoload.php'
 "autoload": {
     // 额外文件
     "files": [
-        "app/Helpers/helpers.php"
+        "helpers.php"
     ],
     // 自动加载类的命名空间和目录的映射
     "psr-4": {"Fuxx\\": "src/"}
